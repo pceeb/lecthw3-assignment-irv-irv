@@ -49,7 +49,7 @@ Include all the scripts you wrote in this repository.
 
 | **Rubric** | **4pt** | **2pt** | **1pt** |
 | --- | ---| --- | --- |
-| Challenge - Effort | | | **X** |
+| Challenge - Effort | | **X** | |
 | Challenge - Accuracy | **X** | | |
-| Challenge - Timely Submission | | | **X** |
+| Challenge - Timely Submission | | **X** | |
 
